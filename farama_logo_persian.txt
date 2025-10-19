@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <!-- قاب لاجوردی -->
+  <path d="M100 750 L100 250 Q400 50 700 250 L700 750 Z" fill="#0b3c5d" stroke="#00bfa5" stroke-width="12"/>
+
+  <!-- نماد طلایی بالای قاب -->
+  <path d="M400 180 L460 280 L340 280 Z" fill="#008060"/>
+  <path d="M340 280 Q400 330 460 280 Z" fill="#f5a623"/>
+
+  <!-- متن فراما تحریری -->
+  <text x="400" y="420" text-anchor="middle" font-size="96" font-family="Tahoma, sans-serif" fill="#f5a623" style="font-style:italic; font-weight:500;">
+    فراما
+  </text>
+
+  <!-- نام احمدرضا اسکندر -->
+  <text x="400" y="500" text-anchor="middle" font-size="48" font-family="Tahoma, sans-serif" fill="#00bfa5">
+    احمدرضا اسکندر
+  </text>
+
+  <!-- نماد هندسی پایین -->
+  <g transform="translate(400,620) scale(1.2)">
+    <polygon points="0,-40 40,0 0,40 -40,0" fill="#0b3c5d" stroke="#00bfa5" stroke-width="6"/>
+    <polygon points="0,-30 30,0 0,30 -30,0" fill="#f5a623"/>
+  </g>
+</svg>
