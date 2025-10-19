@@ -1,0 +1,2 @@
+2025-10-15 14:29:20.799 [info] Extension host started
+2025-10-15 14:29:47.626 [info] Eager extensions activated
